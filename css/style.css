@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+#Centre h1{
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family: dancing script;
+    font-weight: 400px;
+    font-size: 200px
+}
